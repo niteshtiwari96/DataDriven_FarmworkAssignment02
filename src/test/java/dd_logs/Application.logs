@@ -1,0 +1,11 @@
+19/07/2023 12:43:48 devpinoyLogger loading config property file
+19/07/2023 12:43:48 devpinoyLogger loading object property file
+19/07/2023 12:43:50 devpinoyLogger Loading Excel file
+19/07/2023 12:43:50 devpinoyLogger Launching Browser
+19/07/2023 12:44:24 devpinoyLogger Opening Url
+19/07/2023 12:44:35 devpinoyLogger Executing google Brower Launching Test
+19/07/2023 12:44:35 devpinoyLogger click_on_SignIn_Button
+19/07/2023 12:44:42 devpinoyLogger Enter username
+19/07/2023 12:44:43 devpinoyLogger click on Next button
+19/07/2023 12:44:50 devpinoyLogger Enter password
+19/07/2023 12:44:53 devpinoyLogger click on Next button

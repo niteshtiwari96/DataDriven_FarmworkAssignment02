@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+<test name="verify_all_the_Google_apps Test">
+    <classes>
+        <class name="dd_tests.verify_all_Google_apps" ></class>  
+    </classes>
+</test>
+
+</suite>
